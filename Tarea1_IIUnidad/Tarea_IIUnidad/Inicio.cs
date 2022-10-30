@@ -10,11 +10,18 @@ using System.Windows.Forms;
 
 namespace Tarea_IIUnidad
 {
-    public partial class Mostrar : Form
+    public partial class Inicio : Form
     {
-        public Mostrar()
+        public Inicio()
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+
     }
 }
